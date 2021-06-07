@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/src">
+        <file>images/backGif.gif</file>
+        <file>images/spaceship.png</file>
+    </qresource>
+</RCC>
